@@ -7,11 +7,14 @@ mappings['C'] = 100
 mappings['D'] = 500
 mappings['M'] = 1000
 
-a = 'LVIII'
+a = 'LIX'
 
-sum = 0
+sum = mappings[a[-1]]
 
-for i in range(0, len(a) - 2):
-    sum += mappings[a[i]]
+for i in reversed(range(len(a) - 1)):
+    if mappings[a[i]] < mappings[a[i + 1]]:
+        sum -= mappings[a[i]]
+    else:
+        sum += mappings[a[i]]
 
 print(sum)
