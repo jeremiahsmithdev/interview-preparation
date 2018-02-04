@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58890653-3579-4659-b36e-c2211177d4c1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/detect_cycles.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/reverse_sublist.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/interview-preparation.iml" afterPath="$PROJECT_DIR$/.idea/interview-preparation.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/elements_of_programming_interviews/ll/linkedlist.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/ll/linkedlist.py" />
-      <change beforePath="$PROJECT_DIR$/elements_of_programming_interviews/ll/node.py" afterPath="$PROJECT_DIR$/elements_of_programming_interviews/ll/node.py" />
-      <change beforePath="$PROJECT_DIR$/elements_of_programming_interviews/ll/test.py" afterPath="" />
-    </list>
+    <list default="true" id="58890653-3579-4659-b36e-c2211177d4c1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
